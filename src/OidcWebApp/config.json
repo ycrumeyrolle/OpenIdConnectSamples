@@ -1,8 +1,0 @@
-﻿{
-  "oidc": {
-    "authority": "https://demo.identityserver.io/",
-    "client_id": "server.hybrid",
-    "client_secret": "secret"      
-  // , "proxy": "http://<your_proxy>"
-  }
-}
